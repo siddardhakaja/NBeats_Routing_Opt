@@ -7,7 +7,7 @@ The data is collected and cleaned by me. A high bandwidth router in Telia networ
 
 ### sunday_csv.csv is the values of the selected router observed on a sunday. Similarly, wednesday_csv.csv is the values of the same router observed on a monday.
 
-## Model Preperation
+## Model Preparation
 
 Model is a dual stacked ResNet that observes the trend and seasonality of the data to predict the next coming values.
 
