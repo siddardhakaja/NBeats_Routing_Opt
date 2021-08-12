@@ -1,6 +1,6 @@
 # NBeats_Routing_Opt
 
-The objective of this project is to predict the next transmission through a router or switch in a network.
+The objective of this project is to predict the next transmission through a router or switch in a network using N-Beats architecture.
 
 ## Data Collection
 The data is collected and cleaned by me. A high bandwidth router in Telia network is observed for 24 hours and an univariate dataset is created. 
